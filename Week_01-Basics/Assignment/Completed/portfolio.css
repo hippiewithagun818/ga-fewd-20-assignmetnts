@@ -24,6 +24,10 @@ strong {
   font-style: italic;
 }
 
+body {
+	style="background-color: #808080;
+}
+
 h1 {
 	text-transform: uppercase;
 	font-weight: bold;
