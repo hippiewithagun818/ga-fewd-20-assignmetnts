@@ -1,8 +1,7 @@
-body{
-	
-	background-color: #C0C0C0;
-	font-family: sans-serif;
-	font-size: 50px;
+body   {
+	background-color: #E0E0E0;
+    font-family: sans-serif;
+	font-size: 18px;
 	line-height: 1.5;
 	margin: 30px;
 	border-bottom: 5px solid #222222;
@@ -31,7 +30,7 @@ strong {
 h1 {
 	text-transform: uppercase;
 	font-weight: bold;
-	text-align: center;
+	text-align: right;
 	color: #030609;
 	margin-top: 0;
 }
@@ -41,7 +40,7 @@ h2 {
   }
 
 h3 {
-  font-size: 18px;
+  font-size: 54px;
   color: #030609;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -85,7 +84,7 @@ img {
 	margin-bottom: 20px;
 	border: 1px solid #222222;
 	padding: 5px;
-	text-align: center
+	text-align: 
 }
 
 img[alt] {
@@ -94,5 +93,5 @@ img[alt] {
 
 nav {
   color: #222222;
-  text-align: center;
+  text-align: right;
 }
