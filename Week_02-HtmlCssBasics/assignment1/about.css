@@ -8,12 +8,12 @@ body {
 	border-bottom: 1.5px  solid #222222;
 	border-top: 5px solid #222222;
 	padding: 50 px;
-  background: #808080;
+  background: #F6F6F6;
 
 }
 
 a { 
-font-weight: bold-italic;
+font-weight: bold;
 color: #05080C;
 }
 
@@ -29,7 +29,7 @@ strong {
 h1 { 
   text-transform: uppercase;
   font-weight: bold;
-  text-align: center;
+  text-align: right;
   color: #030609;
   margin-top: 0;
 }
