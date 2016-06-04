@@ -12,7 +12,7 @@
 }
 
 /* SEGMENT 1 */
-#segment1 a {
+#segment1
     background-color: #00FF00;
 }
 
@@ -21,3 +21,8 @@
     background-color: #00FF00;
 }
 
+
+/* SEGMENT 3 */
+#segment2 p > a{
+    background-color: #00FF00;
+}
