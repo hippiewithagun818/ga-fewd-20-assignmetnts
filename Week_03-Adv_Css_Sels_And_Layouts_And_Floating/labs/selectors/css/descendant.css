@@ -2,6 +2,17 @@
 /** CSS RULES GO IN HERE */
 
 
-
+section p#paral a {
+  color: #C0C0C0;	
+}
+section p#paral2  a {
+	color: #C0C0C0;
+}
+section a:hover {
+   font-weight: italic;
+   background-color: red;
+   font-size: 100px;
+   font-style: bold-italic;
+}
 
 

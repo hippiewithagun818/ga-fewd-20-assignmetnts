@@ -1,7 +1,13 @@
 
 /** CSS RULES GO IN HERE */
 
+a:hover {
+	background-color: red;
+}
 
+article.myarticle:first-child {
+	background-color: #C0C0C0;
+}
 
 
 
