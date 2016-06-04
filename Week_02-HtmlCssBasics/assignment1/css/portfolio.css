@@ -80,7 +80,7 @@ hr {
 }
 
 img {
-	/*float: right;*/
+	/*float: center;*/
 	margin-right: 20px;
 	margin-bottom: 20px;
 	border: 1px solid #222222;
@@ -89,7 +89,7 @@ img {
 }
 
 img[alt] {
-  float: right;
+  float: center;
 }
 
 nav {
