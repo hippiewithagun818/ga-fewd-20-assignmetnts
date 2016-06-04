@@ -89,7 +89,7 @@ img {
 }
 
 img[alt] {
-  float: center;
+  float: right;
 }
 
 nav {
