@@ -1,6 +1,11 @@
 
 section#mycontent > article {
   background-color: #FFFF00;
+  width: 55px;
+  margin-right: auto;
+  margin-left:  auto;
+  text-align: center;
+
 }
 
 

@@ -2,12 +2,16 @@
 section#mycontent > article {
   float: left;
   width: 200px;
-  border: 2px solid #0088FF;
-  background-color: #FFFF00;
+  border: 2px solid #F088FF;
+  background-color: #00FF00;
+  margin-right:  20px;
 }
 
 p#othertext {
-    background-color: #CCCCCC;
+    background-color: #C0C0C0;
+}
+.clearit { 
+clear:both;
 }
 
 
