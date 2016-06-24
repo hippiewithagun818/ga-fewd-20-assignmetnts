@@ -91,7 +91,7 @@ body {
 #planet4 {
   background-color: #00FF00;
   background-image: radial-gradient(circle at 20px 20px, #00FF00, #000000);
-  top: 280px;
+  top: 90px;
   left: 120px;
   width: 140px;
   height: 140px;
@@ -102,7 +102,7 @@ body {
   background-color: #FF3800;
   background-image: radial-gradient(circle at -120px 20px, #FF3800, #000000);
   top: -55px;
-  right: -420px;
+  right: -435px;
   width: 100px;
   height: 100px;
   z-index: 100;
