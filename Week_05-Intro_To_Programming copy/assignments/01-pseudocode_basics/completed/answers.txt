@@ -3,7 +3,7 @@
 #3r= 120
 #4
 #5
-#6a=1 True
+#6a=1 True wrong
 #7a=1 True
 #8a= (!false and !false) False
 #9
