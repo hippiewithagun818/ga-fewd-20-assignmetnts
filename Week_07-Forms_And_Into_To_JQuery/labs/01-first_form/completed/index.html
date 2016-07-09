@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>HTML Forms</title>
+    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+  </head>
+  <body>
+    <form>
+    <label for="username">Username</label>	
+    <input 
+        id="username"
+        name="username"
+        minlength="3"
+        maxlength="6"
+        type="text" 
+        value="JonDoe"
+        placeholder="Enter your username"  />
+
+    <input 
+      type="password"
+      name="password" 
+      value="Pooky" 
+      placeholder="Enter your password" required="required" />
+    <textarea placeholder="Enter A Bio" id="bio" name="bio"></textarea>
+    <select>
+      <optgroup label="Dogs">
+        <option value="pitbull">Pitbull</option>
+      </optgroup>
+    </select>
+    
+    <input type="submit" value="Create Account" />
+    <input
+        type="checkbox"
+        id="newsletter"
+        name="newsletter"
+        checked="checked" />
+    <input
+        type="number"
+        min="5"
+        max="20"
+        placeholder="Enter your age"
+        id="age"
+        name="age" />
+    <input id="birthday" name="birthday" type="date" />
+    
+    <div id="birthday_box">
+    <span>Birthday</span>
+    <input id="birthday" name="birhday" type="date" />
+    </div>   
+
+  </form>  
+  </body>
+</html>
