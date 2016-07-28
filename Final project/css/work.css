@@ -8,32 +8,70 @@ body  {
 	padding: 5px;
 }
 
-a {
-	font-weight: bold;
-	color: #800000;
-}
 
-ul {
-	list-style: square;
-}
-
-li {
-	color: #800000;
-}
-
-footer nav a {
+#box img#wrkimg {
 	display: block;
-	background-color: #000000;
-	color: #800000;
-	padding: 5px;
-	border-radius: 5px;
-	min-width: 45px;
-	text-align: center;
-	text-decoration: none;
+	float: left;
+	width: 215px;
+	height: 300px;
+	margin-left: 20px;
+	margin-top: 25px;
+	margin-right: 0px;
 }
 
-a#navhome {
-	width: 1%;
-	margin-left: auto;
-	margin-right: auto;
+#box2 img#wrkimg {
+      display: block;
+      float: left;	
+      width: 215px;
+      height: 300px;
 }
+
+#box3 img#wrkimg {
+	display: block;
+	float: left;
+	width: 215px;	
+	height: 300px;
+}
+
+#box4 img#wrkimg {
+	display: block;
+	float: left;
+	width: 215px;
+	height: 300px;
+}
+
+#box5 img#wrkimg {
+	display: block;
+	float: left;
+	width: 215px;
+	height: 300px;
+}
+
+#box6 img#wrkimg {
+	display: block;
+	float: left;
+	width: 375px;
+	height: 260px;
+}
+
+#box7 img#wrkimg {
+	display: block;
+	float: left; 
+	width: 375px;
+	height: 260px;
+}
+
+#box8 img#wrkimg {
+	display: block;
+	float: left;
+	width: 375px;
+	height: 260px;
+}
+nav {
+	color: #000000;
+	text-align: center;
+}
+.clearit {
+  clear: all;
+}
+
